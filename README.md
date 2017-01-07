@@ -10,7 +10,7 @@ The `vjs-video` Angular directive depends on both `angular` and `video.js`. It w
 var angular = require('angular');
 var videojs = require('video.js');
 ```
-To use the directly, simply require it to load the `vjs-video` Angular module.
+To use the directive, simply require it to load the `vjs-video` Angular module.
 
 ```javascript
 var vjsVideoModule = require('vjs-video');

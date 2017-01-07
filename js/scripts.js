@@ -3,8 +3,6 @@ require('../node_modules/video.js/dist/video-js.css');
 (function () {
     'use strict';
 
-    var angular = require('angular');
-    var videojs = require('video.js');
     var vjsVideoModule = require('vjs-video');
     
     angular.module('app', ['vjs.video'])

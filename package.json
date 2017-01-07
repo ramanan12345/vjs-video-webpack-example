@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.1",
-    "video.js": "^5.14.1",
-    "vjs-video": "LonnyGomes/vjs-video.git#enhancement-42-dist"
+    "vjs-video": "^0.1.8"
   },
   "devDependencies": {
     "css-loader": "^0.26.1",
